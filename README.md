@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ravin Bhambhu
-- 👀 I’m interested in Java, Spring Boot, Blockchain, Hyperledger Fabric
-- 🌱 I’m currently working on Hyperledger Fabric Blockchain
-- 💞️ I also worked on spring boot
+- 👀 I’m interested in Java, Spring Boot, Blockchain
 - 📫 How to reach me ravinbhambhu08@gmail.com
 
 <!---
